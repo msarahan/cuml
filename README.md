@@ -32,8 +32,8 @@ print(dbscan.labels_)
 ```
 
 `cuml` supports clustering, dimensionality reduction, regression,
-classification, preprocessing, model selection, time series, model
-explanation, and nearest-neighbor workflows. Browse the [API
+classification, preprocessing, model selection, model explanation, and
+nearest-neighbor workflows. Browse the [API
 reference](https://docs.nvidia.com/cuml/latest/api/) for the current list of
 estimators and functions.
 
@@ -77,7 +77,7 @@ Additional resources:
 
 - [NVIDIA cuML documentation](https://docs.nvidia.com/cuml/)
 - [NVIDIA cuML product page](https://developer.nvidia.com/topics/ai/data-science/cuda-x-data-science-libraries/cuml)
-- [Walkthrough notebooks](https://github.com/NVIDIA/cuml/tree/release/26.10/notebooks)
+- [Walkthrough notebooks](https://github.com/NVIDIA/cuml/tree/main/notebooks)
 - [CUDA-X Data Science libraries](https://developer.nvidia.com/topics/ai/data-science/cuda-x-for-data-science)
 
 ## Build and install from source
